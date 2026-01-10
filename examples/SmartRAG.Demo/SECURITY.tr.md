@@ -167,6 +167,3 @@ Bu yaklaşım:
 
 ## İletişim
 
-Güvenlik endişeleri için:
-- **E-posta:** b.yerlikaya@outlook.com
-- **GitHub:** https://github.com/byerlikaya/SmartRAG

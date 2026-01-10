@@ -6,23 +6,6 @@
   <b>.NET için Multi-Modal RAG — veritabanları, belgeler, görüntüler ve ses dosyalarını doğal dil ile sorgula</b>
 </p>
 
-<p align="center">
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/nuget/v/SmartRAG.svg?style=for-the-badge&logo=nuget" alt="NuGet Version"/></a>
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/nuget/dt/SmartRAG.svg?style=for-the-badge&logo=nuget" alt="Downloads"/></a>
-  <a href="https://github.com/byerlikaya/SmartRAG/stargazers"><img src="https://img.shields.io/github/stars/byerlikaya/SmartRAG?style=for-the-badge&logo=github" alt="GitHub Stars"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" alt="License"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/byerlikaya/SmartRAG/actions"><img src="https://img.shields.io/github/actions/workflow/status/byerlikaya/SmartRAG/ci.yml?style=for-the-badge&logo=github" alt="Build Status"/></a>
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/badge/.NET%20Standard-2.1-blue?style=for-the-badge&logo=.net" alt=".NET Standard 2.1"/></a>
-</p>
-
-<p align="center">
-  <a href="https://byerlikaya.github.io/SmartRAG/tr/"><img src="https://img.shields.io/badge/📚-Tam_Dokümantasyon-blue?style=for-the-badge&logo=book" alt="Documentation"/></a>
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸-English_README-blue?style=for-the-badge" alt="English README"/></a>
-</p>
-
 ## 🚀 **Hızlı Başlangıç**
 
 ### **1. SmartRAG'ı Kur**
@@ -181,17 +164,6 @@ examples/
 └── SmartRAG.Demo/         # Etkileşimli konsol uygulaması
 ```
 
-### **🚀 Demo ile Hızlı Test**
-
-SmartRAG'ı hemen görmek ister misiniz? İnteraktif konsol demo'muzu deneyin:
-
-```bash
-# Klonla ve demo'yu çalıştır
-git clone https://github.com/byerlikaya/SmartRAG.git
-cd SmartRAG/examples/SmartRAG.Demo
-dotnet run
-```
-
 **Önkoşullar:** Yerel olarak veritabanları ve AI servisleri çalıştırmanız gerekiyor, veya kolay kurulum için Docker kullanabilirsiniz.
 
 📖 **[SmartRAG.Demo README](examples/SmartRAG.Demo/README.tr.md)** - Tam demo uygulaması rehberi ve kurulum talimatları
@@ -242,7 +214,7 @@ docker exec -it smartrag-ollama ollama pull nomic-embed-text
 
 **İdeal için:** Hızlı değerlendirme, proof-of-concept, ekip demoları, SmartRAG yeteneklerini öğrenme
 
-📚 **[Tam Örnekler ve Test Rehberi](https://byerlikaya.github.io/SmartRAG/tr/examples)** - Adım adım öğreticiler ve test senaryoları
+📚 Adım adım öğreticiler ve test senaryoları
 
 ## 🎯 **Desteklenen Veri Kaynakları**
 

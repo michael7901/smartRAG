@@ -119,26 +119,3 @@ var cevap = await searchService.QueryIntelligenceAsync(
 // → Envanter DB, Tedarikçi DB, Sipariş Geçmişi DB'yi analiz eder ve yeniden stoklama önerileri sağlar
 // → Stok tükenmesini önler ve tedarik zinciri verimliliğini optimize eder
 ```
-
-## 📚 Ek Kaynaklar
-
-- **Tam Dokümantasyon** - [https://byerlikaya.github.io/SmartRAG/tr/](https://byerlikaya.github.io/SmartRAG/tr/) - Kapsamlı rehberler, API referansı ve öğreticiler
-- **GitHub Repository** - [https://github.com/byerlikaya/SmartRAG](https://github.com/byerlikaya/SmartRAG) - Kaynak kod, örnekler ve topluluk
-- **Canlı Örnekler** - [https://byerlikaya.github.io/SmartRAG/tr/examples](https://byerlikaya.github.io/SmartRAG/tr/examples) - Gerçek dünya kullanım senaryoları
-- **API Referansı** - [https://byerlikaya.github.io/SmartRAG/tr/api-reference](https://byerlikaya.github.io/SmartRAG/tr/api-reference) - Tam API dokümantasyonu
-- **Değişiklik Günlüğü** - [https://github.com/byerlikaya/SmartRAG/blob/main/CHANGELOG.tr.md](https://github.com/byerlikaya/SmartRAG/blob/main/CHANGELOG.tr.md) - Versiyon geçmişi ve güncellemeler
-
-## 📞 Destek
-
-- **E-posta Desteği** - [b.yerlikaya@outlook.com](mailto:b.yerlikaya@outlook.com)
-- **LinkedIn** - [https://www.linkedin.com/in/barisyerlikaya/](https://www.linkedin.com/in/barisyerlikaya/)
-- **GitHub Issues** - [https://github.com/byerlikaya/SmartRAG/issues](https://github.com/byerlikaya/SmartRAG/issues)
-- **Web Sitesi** - [https://byerlikaya.github.io/SmartRAG/tr/](https://byerlikaya.github.io/SmartRAG/tr/)
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](https://github.com/byerlikaya/SmartRAG/blob/main/LICENSE) dosyasına bakın.
-
-**Barış Yerlikaya tarafından ❤️ ile yapıldı**
-
-Made in Turkey 🇹🇷 | [Contact](mailto:b.yerlikaya@outlook.com) | [LinkedIn](https://www.linkedin.com/in/barisyerlikaya/) | [Website](https://byerlikaya.github.io/SmartRAG/tr/)

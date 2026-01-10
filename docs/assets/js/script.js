@@ -1049,7 +1049,7 @@ window.addEventListener('scroll', function() {
 
 // ===== EXTERNAL LINKS IN NEW TAB =====
 document.querySelectorAll('a[href^="http"]').forEach(link => {
-    if (!link.hostname.includes('byerlikaya.github.io')) {
+    if (!link.hostname.includes('#')) {
         link.setAttribute('target', '_blank');
         link.setAttribute('rel', 'noopener noreferrer');
     }

@@ -3,8 +3,6 @@ name: Bug Report
 about: Create a report to help us improve SmartRAG
 title: '[BUG] '
 labels: bug
-assignees: byerlikaya
-
 ---
 
 ## 🐛 Bug Description

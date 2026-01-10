@@ -6,23 +6,6 @@
   <b>Multi-Modal RAG for .NET — query databases, documents, images & audio in natural language</b>
 </p>
 
-<p align="center">
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/nuget/v/SmartRAG.svg?style=for-the-badge&logo=nuget" alt="NuGet Version"/></a>
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/nuget/dt/SmartRAG.svg?style=for-the-badge&logo=nuget" alt="Downloads"/></a>
-  <a href="https://github.com/byerlikaya/SmartRAG/stargazers"><img src="https://img.shields.io/github/stars/byerlikaya/SmartRAG?style=for-the-badge&logo=github" alt="GitHub Stars"/></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge" alt="License"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/byerlikaya/SmartRAG/actions"><img src="https://img.shields.io/github/actions/workflow/status/byerlikaya/SmartRAG/ci.yml?style=for-the-badge&logo=github" alt="Build Status"/></a>
-  <a href="https://www.nuget.org/packages/SmartRAG"><img src="https://img.shields.io/badge/.NET%20Standard-2.1-blue?style=for-the-badge&logo=.net" alt=".NET Standard 2.1"/></a>
-</p>
-
-<p align="center">
-  <a href="https://byerlikaya.github.io/SmartRAG/en/"><img src="https://img.shields.io/badge/📚-Complete_Documentation-blue?style=for-the-badge&logo=book" alt="Documentation"/></a>
-  <a href="README.tr.md"><img src="https://img.shields.io/badge/🇹🇷-Türkçe_README-red?style=for-the-badge" alt="Turkish README"/></a>
-</p>
-
 ## 🚀 **Quick Start**
 
 ### **1. Install SmartRAG**
@@ -185,15 +168,6 @@ examples/
 
 ### **🚀 Quick Test with Demo**
 
-Want to see SmartRAG in action immediately? Try our interactive console demo:
-
-```bash
-# Clone and run the demo
-git clone https://github.com/byerlikaya/SmartRAG.git
-cd SmartRAG/examples/SmartRAG.Demo
-dotnet run
-```
-
 **Prerequisites:** You need to have databases and AI services running locally, or use Docker for easy setup.
 
 📖 **[SmartRAG.Demo README](examples/SmartRAG.Demo/README.md)** - Complete demo application guide and setup instructions
@@ -244,7 +218,7 @@ docker exec -it smartrag-ollama ollama pull nomic-embed-text
 
 **Perfect for:** Quick evaluation, proof-of-concept, team demos, learning SmartRAG capabilities
 
-📚 **[Complete Examples & Testing Guide](https://byerlikaya.github.io/SmartRAG/en/examples)** - Step-by-step tutorials and test scenarios
+📚 Step-by-step tutorials and test scenarios
 
 ## 🎯 **Supported Data Sources**
 

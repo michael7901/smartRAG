@@ -994,7 +994,7 @@ using Microsoft.Extensions.DependencyInjection;
                                 </div>
             <h3>GitHub Repository</h3>
             <p>Kaynak kodunu görüntüleyin, sorunları bildirin ve katkıda bulunun</p>
-            <a href="https://github.com/byerlikaya/SmartRAG" class="btn btn-outline-primary btn-sm mt-3" target="_blank">
+            <a href="#" class="btn btn-outline-primary btn-sm mt-3" target="_blank">
                 GitHub'da Görüntüle
             </a>
                     </div>

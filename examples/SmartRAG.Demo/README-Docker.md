@@ -516,13 +516,10 @@ If you prefer not to use Docker:
 - **Ollama Documentation**: https://ollama.ai/docs
 - **Qdrant Documentation**: https://qdrant.tech/documentation/
 - **Redis Documentation**: https://redis.io/documentation
-- **SmartRAG Documentation**: https://byerlikaya.github.io/SmartRAG/en/
 
 ## 🤝 Contact
 
 For issues or questions:
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
 - **LinkedIn**: https://www.linkedin.com/in/barisyerlikaya/
 - **NuGet**: https://www.nuget.org/packages/SmartRAG
-- **Website**: https://byerlikaya.github.io/SmartRAG/en/
 - **Email**: b.yerlikaya@outlook.com

@@ -53,7 +53,7 @@ static void RegisterServices(IServiceCollection services, IConfiguration configu
             License = new OpenApiLicense
             {
                 Name = "MIT License",
-                Url = new Uri("https://github.com/byerlikaya/SmartRAG/blob/main/LICENSE")
+                Url = new Uri("#")
             }
         });
 

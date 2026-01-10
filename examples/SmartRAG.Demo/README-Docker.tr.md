@@ -516,13 +516,10 @@ Docker kullanmayı tercih etmiyorsanız:
 - **Ollama Dokümantasyonu**: https://ollama.ai/docs
 - **Qdrant Dokümantasyonu**: https://qdrant.tech/documentation/
 - **Redis Dokümantasyonu**: https://redis.io/documentation
-- **SmartRAG Dokümantasyonu**: https://byerlikaya.github.io/SmartRAG/tr/
 
 ## 🤝 İletişim
 
 Sorunlar veya sorular için:
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
 - **LinkedIn**: https://www.linkedin.com/in/barisyerlikaya/
 - **NuGet**: https://www.nuget.org/packages/SmartRAG
-- **Website**: https://byerlikaya.github.io/SmartRAG/tr/
 - **Email**: b.yerlikaya@outlook.com

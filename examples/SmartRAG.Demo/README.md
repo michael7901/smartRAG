@@ -16,15 +16,6 @@
 
 ---
 
-## 🚀 **Quick Start**
-
-```bash
-# Clone and run the demo
-git clone https://github.com/byerlikaya/SmartRAG.git
-cd SmartRAG/examples/SmartRAG.Demo
-dotnet run
-```
-
 ### **Prerequisites**
 - **.NET 9.0 SDK** - Required for running the demo
 - **Docker Desktop** (optional) - For local services (AI, databases, vector stores)
@@ -232,22 +223,6 @@ dotnet run --dry-run
 - **Logging**: Microsoft.Extensions.Logging.Console
 - **Cache**: StackExchange.Redis
 - **Async Support**: System.Threading.Tasks.Extensions
-
-### **Documentation**
-- **Main Documentation**: https://byerlikaya.github.io/SmartRAG/en/
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
-- **NuGet**: https://www.nuget.org/packages/SmartRAG
-
-## 🤝 **Contact**
-
-For issues or questions:
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
-- **LinkedIn**: https://www.linkedin.com/in/barisyerlikaya/
-- **NuGet**: https://www.nuget.org/packages/SmartRAG
-- **Website**: https://byerlikaya.github.io/SmartRAG/en/
-- **Email**: b.yerlikaya@outlook.com
-
-## 📄 **License**
 
 This project is part of SmartRAG and follows the same MIT License.
 

@@ -1002,7 +1002,7 @@ No API changes - all functionality remains the same. Just ensure your project ta
             </div>
             <h3>GitHub Repository</h3>
             <p>View source code, report issues, and contribute</p>
-            <a href="https://github.com/byerlikaya/SmartRAG" class="btn btn-outline-primary btn-sm mt-3" target="_blank">
+            <a href="#" class="btn btn-outline-primary btn-sm mt-3" target="_blank">
                 View on GitHub
             </a>
                     </div>

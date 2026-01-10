@@ -48,7 +48,6 @@ SmartRAG'a katkıda bulunmaya ilgi gösterdiğiniz için teşekkür ederiz! Topl
 ## 🔄 Katkıda Bulunma Süreci
 
 ### 1. **Bir Issue Seçin veya Oluşturun**
-- [Mevcut issue'ları](https://github.com/byerlikaya/SmartRAG/issues) gözden geçirin
 - Hatalar için: Bug report şablonunu kullanın
 - Özellikler için: Feature request şablonunu kullanın
 - Issue'ya yorum yaparak üzerinde çalıştığınızı belirtin
@@ -306,7 +305,6 @@ API projesini etkileyen değişiklikleri göndermeden önce:
 
 ### **Kaynaklar**
 - [Proje README](README.tr.md)
-- [Dokümantasyon Sitesi](https://byerlikaya.github.io/SmartRAG/tr/)
 - [Proje Kuralları](.cursor/rules/00-ANA-INDEKS.mdc) - Tam proje kuralları ve rehberleri
 - [Kod Standartları](.cursor/rules/03-KOD-STANDARTLARI.mdc) - Detaylı C# kodlama standartları
 - [Git Commit Kuralları](.cursor/rules/02-GIT-COMMIT-RULES.mdc) - Commit mesaj rehberleri

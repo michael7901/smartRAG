@@ -16,15 +16,6 @@
 
 ---
 
-## 🚀 **Hızlı Başlangıç**
-
-```bash
-# Demo'yu klonla ve çalıştır
-git clone https://github.com/byerlikaya/SmartRAG.git
-cd SmartRAG/examples/SmartRAG.Demo
-dotnet run
-```
-
 ### **Önkoşullar**
 - **.NET 9.0 SDK** - Demo'yu çalıştırmak için gerekli
 - **Docker Desktop** (opsiyonel) - Yerel servisler için (AI, veritabanları, vektör depoları)
@@ -232,20 +223,6 @@ dotnet run --dry-run
 - **Loglama**: Microsoft.Extensions.Logging.Console
 - **Önbellek**: StackExchange.Redis
 - **Async Desteği**: System.Threading.Tasks.Extensions
-
-### **Dokümantasyon**
-- **Ana Dokümantasyon**: https://byerlikaya.github.io/SmartRAG/tr/
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
-- **NuGet**: https://www.nuget.org/packages/SmartRAG
-
-## 🤝 **İletişim**
-
-Sorunlar veya sorular için:
-- **GitHub**: https://github.com/byerlikaya/SmartRAG
-- **LinkedIn**: https://www.linkedin.com/in/barisyerlikaya/
-- **NuGet**: https://www.nuget.org/packages/SmartRAG
-- **Website**: https://byerlikaya.github.io/SmartRAG/tr/
-- **Email**: b.yerlikaya@outlook.com
 
 ## 📄 **Lisans**
 

@@ -94,16 +94,5 @@ Want to add more examples? Create a new directory and submit a pull request!
 - **Document Analyzer** - Advanced document analysis with table extraction
 - **Mobile App** - Cross-platform mobile application with SmartRAG integration
 
-## 📞 Support
-
-For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/byerlikaya/SmartRAG).
-
-### Contact Information
-- **📧 [Contact & Support](mailto:b.yerlikaya@outlook.com)**
-- **💼 [LinkedIn](https://www.linkedin.com/in/barisyerlikaya/)**
-- **🐙 [GitHub Profile](https://github.com/byerlikaya)**
-- **📦 [NuGet Packages](https://www.nuget.org/profiles/barisyerlikaya)**
-- **📖 [Documentation](https://byerlikaya.github.io/SmartRAG)** - Comprehensive guides and API reference
-
 ---
 **Made in Turkey 🇹🇷 | [Contact](mailto:b.yerlikaya@outlook.com) | [LinkedIn](https://www.linkedin.com/in/barisyerlikaya/)**

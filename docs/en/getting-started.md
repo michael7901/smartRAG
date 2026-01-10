@@ -405,7 +405,7 @@ var newConv = await _searchService.QueryIntelligenceAsync(
     <h4><i class="fas fa-question-circle me-2"></i> Support & Community</h4>
     <p>If you encounter issues or need assistance:</p>
     <ul class="mb-0">
-        <li><strong>GitHub Issues:</strong> <a href="https://github.com/byerlikaya/SmartRAG/issues" target="_blank">Report bugs or request features</a></li>
+        <li><strong>GitHub Issues:</strong> <a href="#" target="_blank">Report bugs or request features</a></li>
         <li><strong>Email Support:</strong> <a href="mailto:b.yerlikaya@outlook.com">b.yerlikaya@outlook.com</a></li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/barisyerlikaya/" target="_blank">Connect for professional inquiries</a></li>
         <li><strong>Documentation:</strong> Explore full documentation on this site</li>

@@ -48,7 +48,6 @@ Thank you for your interest in contributing to SmartRAG! We welcome contribution
 ## 🔄 Contributing Process
 
 ### 1. **Choose or Create an Issue**
-- Browse [existing issues](https://github.com/byerlikaya/SmartRAG/issues)
 - For bugs: Use the bug report template
 - For features: Use the feature request template
 - Comment on the issue to indicate you're working on it
@@ -306,7 +305,6 @@ Before submitting changes that affect the API project:
 
 ### **Resources**
 - [Project README](README.md)
-- [Documentation Site](https://byerlikaya.github.io/SmartRAG/en/)
 - [Project Rules](.cursor/rules/00-ANA-INDEKS.mdc) - Complete project rules and guidelines
 - [Code Standards](.cursor/rules/03-KOD-STANDARTLARI.mdc) - Detailed C# coding standards
 - [Git Commit Rules](.cursor/rules/02-GIT-COMMIT-RULES.mdc) - Commit message guidelines

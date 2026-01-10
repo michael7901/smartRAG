@@ -167,7 +167,4 @@ This approach:
 
 ## Contact
 
-For security concerns:
-- **Email:** b.yerlikaya@outlook.com
-- **GitHub:** https://github.com/byerlikaya/SmartRAG
 

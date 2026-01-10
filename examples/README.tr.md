@@ -94,16 +94,4 @@ Daha fazla örnek eklemek ister misiniz? Yeni bir klasör oluşturun ve bir pull
 - **Doküman Analizörü** - Tablo çıkarma ile gelişmiş doküman analizi
 - **Mobil Uygulama** - SmartRAG entegrasyonu ile çapraz platform mobil uygulama
 
-## 📞 Destek
-
-Sorular, sorunlar veya katkılar için lütfen [GitHub repository](https://github.com/byerlikaya/SmartRAG)'mizi ziyaret edin.
-
-### İletişim Bilgileri
-- **📧 [İletişim ve Destek](mailto:b.yerlikaya@outlook.com)**
-- **💼 [LinkedIn](https://www.linkedin.com/in/barisyerlikaya/)**
-- **🐙 [GitHub Profili](https://github.com/byerlikaya)**
-- **📦 [NuGet Paketleri](https://www.nuget.org/profiles/barisyerlikaya)**
-- **📖 [Dokümantasyon](https://byerlikaya.github.io/SmartRAG/tr/)** - Kapsamlı rehberler ve API referansı
-
----
 **Made in Turkey 🇹🇷 | [Contact](mailto:b.yerlikaya@outlook.com) | [LinkedIn](https://www.linkedin.com/in/barisyerlikaya/)**

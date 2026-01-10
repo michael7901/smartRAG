@@ -45,7 +45,7 @@ hide_title: true
                             <i class="fas fa-rocket"></i>
                             Get Started
                         </a>
-                        <a href="https://github.com/byerlikaya/SmartRAG" class="btn btn-outline-primary btn-lg" target="_blank">
+                        <a href="#" class="btn btn-outline-primary btn-lg" target="_blank">
                             <i class="fab fa-github"></i>
                             GitHub
                         </a>
@@ -506,7 +506,7 @@ Console.WriteLine(answer.Answer);
                     <i class="fas fa-rocket"></i>
                     Get Started Now
                 </a>
-            <a href="https://github.com/byerlikaya/SmartRAG" class="btn btn-outline-primary btn-lg" target="_blank">
+            <a href="#" class="btn btn-outline-primary btn-lg" target="_blank">
                     <i class="fab fa-github"></i>
                     GitHub
                 </a>
